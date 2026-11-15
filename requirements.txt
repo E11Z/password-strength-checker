@@ -1,0 +1,2 @@
+# Runtime uses the standard library only; pytest is for the test suite.
+pytest>=8
